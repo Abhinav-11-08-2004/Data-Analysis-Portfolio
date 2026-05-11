@@ -1,11 +1,11 @@
-# 📊 Multi-Domain Data Analysis Portfolio
+# Multi-Domain Data Analysis Portfolio
 
 > **5 end-to-end data analysis projects** covering Retail, Education, Weather,
 > Healthcare, and Finance — built with Python, pandas, matplotlib, seaborn, and ReportLab.
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```
 data_portfolio/
@@ -51,7 +51,7 @@ data_portfolio/
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 # 1. Install dependencies  (Python 3.8+ required)
@@ -75,7 +75,7 @@ python notebooks/project1_supermarket_sales.py
 
 ---
 
-## 📁 Project Summaries
+## Project Summaries
 
 ### Project 1 — Supermarket Sales Analysis *(Retail)*
 | Item | Detail |
@@ -124,7 +124,7 @@ python notebooks/project1_supermarket_sales.py
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Library | Purpose |
 |---------|---------|
@@ -137,17 +137,14 @@ python notebooks/project1_supermarket_sales.py
 
 ---
 
-## 📊 Total Deliverables
+## Total Deliverables
 
-- ✅ 5 complete analysis scripts (≈ 200 lines each)
-- ✅ 5 professional PDF reports with executive summaries
-- ✅ 38 visualisations across all projects
-- ✅ 5 clean, validated datasets (18,726 total rows)
-- ✅ Reusable utility library (`src/utils.py`)
-- ✅ Automated dataset generator (`src/data_generator.py`)
-- ✅ One-command full run (`run_all.py`)
+- 5 complete analysis scripts (≈ 200 lines each)
+- 5 professional PDF reports with executive summaries
+- 38 visualisations across all projects
+- 5 clean, validated datasets (18,726 total rows)
+- Reusable utility library (`src/utils.py`)
+- Automated dataset generator (`src/data_generator.py`)
+- One-command full run (`run_all.py`)
 
 ---
-
-## 👤 Author
-Data Analysis Portfolio · AB · 2024
